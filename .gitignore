@@ -5,8 +5,10 @@
 /*.iml
 /*.ipr
 /*.iws
+**/*.mflow
 /target
 .idea
 .DS_Store
+.studio/
 .classpath
 .project
