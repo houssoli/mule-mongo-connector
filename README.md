@@ -1,7 +1,7 @@
 Mule Mongo Connector
 ====================
 
-MongoDB is an open source, high-performance, schema-free, document-oriented database that manages collections of BSON documents. The Mongo Connector allows to connect to a Mongo DB instance and run the almost all the operations that can be performed from the command line.
+MongoDB is an open source, high-performance, schema-free, document-oriented database that manages collections of BSON documents. The Mongo Connector allows to connect to a Mongo DB instance and run almost all the operations that can be performed from the command line.
 
 Installation and Usage
 ----------------------
